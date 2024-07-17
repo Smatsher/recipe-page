@@ -96,14 +96,8 @@ hr {
 
 }
 
-#nutrition ul {
-  list-style: none;
-  padding: 0;
-}
-
-#nutrition ul p {
+#nutrition div p {
   display: flex;
-  margin: 0;
   padding-left: 1rem;
 }
 
